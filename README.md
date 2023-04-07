@@ -1,5 +1,5 @@
 # Music-Genre-Classification-via-Album-Cover
-This project was created to explore capabilities of machine learning models find patterns in human-made art, such as album covers VS corresponding music genre. 
+This project was created to explore capabilities of machine learning models find patterns in human-made art, such as album cover VS corresponding music genre. 
 &nbsp;
 
 _The dataset can be found [on Kaggle](https://www.kaggle.com/datasets/anastasiapetrunia/album-covers-dataset)._
