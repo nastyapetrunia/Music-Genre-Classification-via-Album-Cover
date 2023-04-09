@@ -76,6 +76,6 @@ Now it's possible to alter the outcome of the model if it has the Parental Advis
 Besides, as was mentioned in [Research and Approach Selection](#research-and-approach-selection) I tried to analyse possible correlations between the objects that appear on album covers and selected genres. To do so I used [Clarifai API](https://github.com/Clarifai/clarifai-python-grpc/) and a 1000 imgs per class. Then i filtered the objects, that appeared in less than 20% of the images and analyzed results. This can be also used in tuning the model's predictions a bit.
 &nbsp;
 
-All files with Clarifai's predictions can be found in Clarifai Results folder of this project.
+All files with Clarifai's predictions can be found in Clarifai Results folder of this project. The full.csv file represents the number of images that a certain object has appeared in.
 ## Conclusion and Future Work
 Different studies on the topic of classifying album covers by their music genre show that it is possible to build a model that can perform well on such task. All of the approaches that were tried in this project could be combined in one algorithm to provide the best possible predictions. Also future research colud be done to enhance the obtained results.
